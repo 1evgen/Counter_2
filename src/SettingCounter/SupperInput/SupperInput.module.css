@@ -1,0 +1,22 @@
+
+.wrapperForInput {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.styleInput{
+    width: 150px;
+    height: 20px;
+    border-color: #6fcbfa;
+    border-radius: 5px;
+}
+
+
+.isError {
+    background-color: #af0707;
+
+}
+
+

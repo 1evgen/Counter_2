@@ -1,0 +1,71 @@
+
+.wrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.bodyCounter{
+    margin-top: 50px;
+    border: 2px solid #6fcbfa;
+    width: 360px;
+    height: 250px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 2%;
+}
+
+.windowCounter{
+    border: 2px solid #6fcbfa;
+    width: 330px;
+    height: 150px;
+    border-radius: 10px;
+    font-weight: bold;
+    color: #6fcbfa;
+
+}
+
+.number{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 25px;
+    font-size: 70px;
+}
+
+.spaceForButtons {
+    border: 2px solid #6fcbfa;
+    width: 330px;
+    height: 70px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.maxValue {
+    color: #af0707;
+}
+
+.string{
+    font-size: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 25px;
+    color: #6fcbfa;
+}
+
+.isMistakeInEnter{
+    color: red
+}
+
+.String{
+    color: #af0707;
+}

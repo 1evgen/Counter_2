@@ -1,0 +1,10 @@
+.App {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-evenly;
+
+    background-color: #383848;
+    width: 100%;
+    height: 100vh;
+
+}

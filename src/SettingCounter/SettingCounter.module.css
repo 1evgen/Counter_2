@@ -1,0 +1,51 @@
+.wrapper {
+
+}
+
+.bodySettingCounter{
+    margin-top: 50px;
+    border: 2px solid #6fcbfa;
+    width: 360px;
+    height: 250px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 2%;
+}
+
+.windowForValue{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+
+    border: 2px solid #6fcbfa;
+    width: 330px;
+    height: 150px;
+    border-radius: 10px;
+    font-weight: bold;
+    color: #6fcbfa;
+
+}
+
+.windowForButton {
+    border: 2px solid #6fcbfa;
+    width: 330px;
+    height: 70px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+
+.error input {
+    background-color: #ff4a8a;
+    border: 2px solid red;
+}
+
+.disabled{
+
+}
